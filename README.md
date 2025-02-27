@@ -1,10 +1,6 @@
 # react-copy-to-clipboard [![npm](https://img.shields.io/npm/v/react-copy-to-clipboard.svg?style=flat-square)](https://www.npmjs.com/package/react-copy-to-clipboard)
 
-[![Gitter](https://img.shields.io/gitter/room/nkbt/help.svg?style=flat-square)](https://gitter.im/nkbt/help)
-
-[![CircleCI](https://img.shields.io/circleci/project/nkbt/react-copy-to-clipboard.svg?style=flat-square&label=nix-build)](https://circleci.com/gh/nkbt/react-copy-to-clipboard)
-[![Dependencies](https://img.shields.io/david/nkbt/react-copy-to-clipboard.svg?style=flat-square)](https://david-dm.org/nkbt/react-copy-to-clipboard)
-[![Dev Dependencies](https://img.shields.io/david/dev/nkbt/react-copy-to-clipboard.svg?style=flat-square)](https://david-dm.org/nkbt/react-copy-to-clipboard#info=devDependencies)
+[![CircleCI](https://img.shields.io/circleci/project/nkbt/react-copy-to-clipboard.svg?style=flat-square)](https://circleci.com/gh/nkbt/react-copy-to-clipboard)
 
 Copy to clipboard React component
 
