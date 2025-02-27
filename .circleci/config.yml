@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - checkout
-      - run: yarn install --immutable --immutable-cache
+      - run: yarn install --immutable
       - run: yarn check:deps
       - run: yarn lint
       - run: yarn test
